@@ -1,4 +1,4 @@
-package repositories;
+package com.project.project_spring.repositories;
 
 import java.util.Optional;
 

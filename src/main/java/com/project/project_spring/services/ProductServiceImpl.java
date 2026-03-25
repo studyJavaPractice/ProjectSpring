@@ -8,8 +8,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import com.project.project_spring.entities.Product;
-
-import repositories.ProductRepository;
+import com.project.project_spring.repositories.ProductRepository;
 
 
 
